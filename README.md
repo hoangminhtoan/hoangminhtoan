@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: hoangminhtoant2l1@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangminhtoan&theme=blue-green)
+
+
+<img src="https://komarev.com/ghpvc/?username=hoangminhtoan"/>
