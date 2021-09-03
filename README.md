@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangminhtoan&theme=blue-green)
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hoangminhtoan@theme=dark)](https://git.io/streak-stats)
 <img src="https://komarev.com/ghpvc/?username=hoangminhtoan"/>
