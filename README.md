@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: hoangminhtoant2l1@gmail.com
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangminhtoan&theme=blue-green&layout=compact)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hoangminhtoan&theme=dark)](https://git.io/streak-stats)
 
 <img src="https://komarev.com/ghpvc/?username=hoangminhtoan"/>
