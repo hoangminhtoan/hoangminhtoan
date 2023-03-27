@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on <b>visual object tracking(VOT)</b>
+- 🔭 I’m currently working on <b>objects detection/segmentation on satellite images</b>
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on google coral dev board
 - 🤔 I’m looking for help with converting pytorch model to tflite-int8 on edge tpu devices
